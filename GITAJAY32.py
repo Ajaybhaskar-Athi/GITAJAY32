@@ -5,3 +5,4 @@ while a>0:
     a=a//10
     rev=(rev*10)+d
 print(rev)
+#a
